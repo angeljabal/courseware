@@ -1,0 +1,13 @@
+.hero{
+    background-image: url('../images/bg.jpg');
+    height: 250px;
+    color: #ffb5d4;
+}
+
+.card-title{
+    color: #0283BA;
+}
+
+.index{
+    margin-top: 20px;
+}
